@@ -1,2 +1,3 @@
 rootProject.name='TheAudioDbApi'
 include ':app'
+include ':frogotheaudiodbapi'
